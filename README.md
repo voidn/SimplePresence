@@ -7,3 +7,7 @@ A few QOL changes to SimplePresence. [Original here](https://github.com/justdotJ
 
 -- Automatically cycle presence data based on arrays to remove the need for user input to change status information.
   -- Pair presence state with descriptor for more interesting/meaningful status.
+  
+-- \_example files under "Custom" as a minimalistic alternative to default files.
+
+![Alternative window](http://i.imgur.com/WV2v1Dl.png)
